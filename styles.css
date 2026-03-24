@@ -9,6 +9,13 @@
    Your job: write the syntax correctly.
    ───────────────────────────────────────────── */
 
+
+
+
+   .pink-bg{
+      background-color: pink;
+   }
+
 /* Task 1: Write a CLASS rule called "pink-bg"
    It should change the background color to pink */
 
@@ -16,7 +23,9 @@
 /* Task 2: Write a CLASS rule called "blue-text"
    It should change the text color to blue */
 
-
+.blue-text{
+   color:blue;
+}
 /* Task 3: Write a CLASS rule called "big-border"
    It should add a border — use: 3px solid black */
 
@@ -24,6 +33,11 @@
 /* Task 4: Write an ID rule called "main-title"
    It should change the background color to navy
    and the text color to white */
+
+   #main-title{
+      background-color: navy;
+      color:white;
+   }
 
 
 /* Task 5: Write an ID rule called "footer-text"
@@ -41,13 +55,22 @@
    ───────────────────────────────────────────── */
 
 /* Task 6: Write a CLASS rule called "highlight" */
-
+.highlight{
+   color:blue;
+   background-color: yellowgreen;
+}
 
 /* Task 7: Write a CLASS rule called "list-style" */
-
+.list-style{
+   color:rgb(230, 55, 213);
+   background-color: color(from rgb(209, 219, 107) srgb r g b);
+}
 
 /* Task 8: Write an ID rule called "page-heading" */
-
+#page-heading{
+   color:aliceblue;
+   background-color: crimson;
+}
 
 /* ─────────────────────────────────────────────
    PART 3 — Open Ended
@@ -56,9 +79,21 @@
    ───────────────────────────────────────────── */
 
 /* Your class rule 1 */
+.popa{
+   color:beige;
+   background-color: deepskyblue;
+   margin: 175px;
+   border:20px solid blue;
+   width:200px;
+   height:200px;
+   padding:
 
+}
 
 /* Your class rule 2 */
-
+.footer{
+   color:yellow;
+   background-color: blue;
+}
 
 /* Your ID rule */
